@@ -1,0 +1,66 @@
+# DUSTCELL – 音楽
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+打 Tuning
+もう Feeling
+響く波形が宙に舞う
+Blue Screen
+摂る Caffeine
+赤い Rec が点滅する
+打 Tuning
+もう Feeling
+響く波形が宙に舞う
+Blue Screen
+摂る Caffeine
+Mastering して
+Export!
+生きるすべてが音になる
+もっと身勝手だっていい
+Bad event も作品に変える
+グリッドずれてもいいよ
+ここにはルールなんてない
+自分次第で解放区に
+Click MIDI
+Groove Rhythm
+EQ Delay
+Appy Reverd
+赴くままつくる Track
+そう
+Burn away what you don't need
+Snare Kick
+Snap & Hats
+Can you play some more music?
+感情本能吐き出していく
+スピーカーのボリュームを
+もっと上げて
+音楽に塗れ生きる
+他は何もできないから
+Sing it out 行き場のない思いを
+メジャーかマイナーか
+はたまたディミニッシュか
+人生が音楽だとしたら何を鳴らす
+リピートしたっていい
+展開をつけてもいい
+誰かの心に残るようなものにしたい
+TAKE 1 2 3 4 5 6 録り直し
+TAKE 8 9 10 11 良い感じ
+TAKE 12 13 14 もうちょっと
+夜が明けてきた
+Attack Release
+Noise Glitch
+Pitch Curve
+Add Distortion
+オートメーション書いて
+そう Let the filteropen up
+Snare Kick
+Snap & Hats
+Can you play some more music?
+感情本能吐き出していく
+スピーカーのボリュームを
+もっと上げて
+音楽に塗れ生きる
+他は何もできないから
+Sing it out 行き場のない思いを
+```
