@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "音楽",
+  "base_artist": "DUSTCELL",
+  "createdAt": "2026-02-08T15:55:58.821749Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "音楽",
+      "artist": "Kalafina",
+      "has_synced": true,
+      "path": "select/01_音楽_Kalafina.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ongaku [音楽]",
+      "artist": "Kalafina",
+      "has_synced": true,
+      "path": "select/02_Ongaku_[音楽]_Kalafina.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ONGAKU / 音楽",
+      "artist": "Yellow Magic Orchestra",
+      "has_synced": true,
+      "path": "select/03_ONGAKU___音楽_Yellow_Magic_Orchestra.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "音楽",
+      "artist": "Yellow Magic Orchestra",
+      "has_synced": true,
+      "path": "select/04_音楽_Yellow_Magic_Orchestra.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "音楽",
+      "artist": "Yellow Magic Orchestra",
+      "has_synced": true,
+      "path": "select/05_音楽_Yellow_Magic_Orchestra.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "音楽",
+      "artist": "Yellow Magic Orchestra",
+      "has_synced": true,
+      "path": "select/06_音楽_Yellow_Magic_Orchestra.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "音楽",
+      "artist": "385",
+      "has_synced": false,
+      "path": "select/07_音楽_385.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "音楽",
+      "artist": "坂本真綾",
+      "has_synced": false,
+      "path": "select/08_音楽_坂本真綾.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "音楽",
+      "artist": "小泉今日子",
+      "has_synced": true,
+      "path": "select/09_音楽_小泉今日子.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "音楽",
+      "artist": "PEDRO",
+      "has_synced": true,
+      "path": "select/10_音楽_PEDRO.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "音楽",
+      "artist": "DUSTCELL",
+      "has_synced": false,
+      "path": "select/pl_01_音楽_DUSTCELL.txt"
+    }
+  ]
+}
